@@ -1,6 +1,6 @@
 """
     tutorialformatter
-    ===========================
+    ===============================
 
     This extension provides a directive to include a source code file
     in a document, but with certain comments from the file formatted
